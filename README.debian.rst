@@ -41,7 +41,7 @@ install-deps-stretch.sh file is on iorchard forked ceph repository.::
 
     orchard@deployer:~/build/ceph$ cd ceph-13.2.4
     orchard@deployer:~/build/ceph/ceph-13.2.4$ wget \
-        https://raw.githubusercontent.com/iorchard/ceph/master/install-deps.sh
+        https://raw.githubusercontent.com/iorchard/ceph/master/install-deps-stretch.sh
 
 Build prerequisites.::
 
